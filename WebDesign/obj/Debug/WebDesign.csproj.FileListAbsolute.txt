@@ -1,0 +1,12 @@
+D:\BASIS\49_BATCH\03-11-2014\source\WebDesign\WebDesign\bin\WebDesign.dll.config
+D:\BASIS\49_BATCH\03-11-2014\source\WebDesign\WebDesign\bin\WebDesign.dll
+D:\BASIS\49_BATCH\03-11-2014\source\WebDesign\WebDesign\bin\WebDesign.pdb
+D:\BASIS\49_BATCH\03-11-2014\source\WebDesign\WebDesign\obj\Debug\WebDesign.csprojResolveAssemblyReference.cache
+D:\BASIS\49_BATCH\03-11-2014\source\WebDesign\WebDesign\obj\Debug\WebDesign.dll
+D:\BASIS\49_BATCH\03-11-2014\source\WebDesign\WebDesign\obj\Debug\WebDesign.pdb
+F:\BASIS OOP ASP.NET 49 Batch\03-11-2014\source\WebDesign\WebDesign\bin\WebDesign.dll.config
+F:\BASIS OOP ASP.NET 49 Batch\03-11-2014\source\WebDesign\WebDesign\bin\WebDesign.dll
+F:\BASIS OOP ASP.NET 49 Batch\03-11-2014\source\WebDesign\WebDesign\bin\WebDesign.pdb
+F:\BASIS OOP ASP.NET 49 Batch\03-11-2014\source\WebDesign\WebDesign\obj\Debug\WebDesign.csprojResolveAssemblyReference.cache
+F:\BASIS OOP ASP.NET 49 Batch\03-11-2014\source\WebDesign\WebDesign\obj\Debug\WebDesign.dll
+F:\BASIS OOP ASP.NET 49 Batch\03-11-2014\source\WebDesign\WebDesign\obj\Debug\WebDesign.pdb
